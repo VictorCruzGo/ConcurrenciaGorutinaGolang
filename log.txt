@@ -1,0 +1,1 @@
+2019/12/16 14:06:00 un erro ocurrio open sin-archivo.txt: The system cannot find the file specified.
